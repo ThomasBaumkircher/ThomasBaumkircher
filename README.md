@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++!
 - 💞️ I’m looking to collaborate on nothing...(I rather work by myself
 - 📫 How to reach me Discord
+- ses
 
 <!---
 ThomasBaumkircher/ThomasBaumkircher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
